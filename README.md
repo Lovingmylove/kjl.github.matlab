@@ -9,5 +9,4 @@
     4. The_Solution_to_complex_integral.m(复杂函数的积分算法)
 ##联系方式
     欢迎以学习为目的的交流，联系QQ：1297110362
->Stay Hungry, Stay Foolish. 
->                   ———Steve Jobs
+>                                       Stay Hungry, Stay Foolish. ——Steve Jobs
