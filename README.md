@@ -1,7 +1,4 @@
 # kjl.github.matlab
-![build](https://github.com/Lovingmylove/kjl.github.matlab/raw/master/images/build.jpg)
-![version](https://github.com/Lovingmylove/kjl.github.matlab/blob/master/images/version.jpg)
-![Powered by](https://github.com/Lovingmylove/kjl.github.matlab/blob/master/images/Powered by.jpg)
 ![github](https://github.com/Lovingmylove/kjl.github.matlab/blob/master/images/DancingPeaks.gif "github")
 ##主要内容
     这是一个以Matlab算法为主的库，主要收集平常学习过程中以及数学建模中解决问题的一些常用算法。    
