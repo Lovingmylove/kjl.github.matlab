@@ -8,6 +8,8 @@
     3. Graph_Shortest_Path.m(有向图和无向图中的最短路径算法)
     4. The_Solution_to_complex_integral.m(复杂函数的积分算法)
     5. Insert_Sequence.m(直接插入排序算法)
+    6. Shift_axis_to_origin.m(移动坐标轴到原点的算法)
+    7. Sinc.m(Sa函数测试Shift_axis_to_origin.m程序)
 ##测试环境
     MATLAB_2014b或MATLAB_2015a
 ##联系方式
