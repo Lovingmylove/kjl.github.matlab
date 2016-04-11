@@ -10,6 +10,7 @@
     5. Insert_Sequence.m(直接插入排序算法)
     6. Shift_axis_to_origin.m(移动坐标轴到原点的算法)
     7. Sinc.m(Sa函数测试Shift_axis_to_origin.m程序)
+    8. readtxt.m(读取txt文件中的数据并对数据进行处理和可视化算法)
 ##测试环境
     MATLAB_2014b或MATLAB_2015a
 ##联系方式
